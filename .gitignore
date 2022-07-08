@@ -12,6 +12,9 @@ output
 build
 
 .classpath
+apk
+.cache
+.Project
 
 .project
 /bin/
