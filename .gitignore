@@ -12,7 +12,6 @@ output
 build
 
 .classpath
-apk
 .cache
 .Project
 
